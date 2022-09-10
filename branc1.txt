@@ -1,1 +1,3 @@
+merge issu resovled 
 this is my branch edited in b1
+this is my branch in b2
